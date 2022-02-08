@@ -1,6 +1,6 @@
 # Plot.ly-Challenge
 
-# README Template
+![dashboard image](dashboard.png)
 
 # Introduction
 
